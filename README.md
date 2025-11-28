@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Etikala Sai Swetha
 
 I'm a CSE student passionate about learning programming, building simple projects, and improving my technical skills.  
