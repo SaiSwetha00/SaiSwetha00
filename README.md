@@ -1,16 +1,40 @@
 ## Hi there 👋
+# 👋 Hi, I'm Etikala Sai Swetha
 
-<!--
-**SaiSwetha00/SaiSwetha00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE student passionate about learning programming, building simple projects, and improving my technical skills.  
+I enjoy working with Python, HTML, CSS, and SQL, and I'm always excited to learn new things.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills (Learning)
+- Python  
+- HTML & CSS  
+- SQL  
+- Basic Web Scraping  
+- MS Office (Word, Excel, PowerPoint)
+
+---
+
+## 📂 Projects
+- **Web Scraping & Data Visualization**  
+  A beginner-level project using Python to extract data and create simple visualizations.
+
+- (More projects coming soon...)
+
+---
+
+## 🎯 Interests
+- Web development  
+- Data analysis  
+- Learning new tools and technologies  
+
+---
+
+## 📫 Contact
+- **Email:** saiswethaetikala08@gmail.com  
+- **Phone:** 9390791642  
+
+---
+
+Thank you for visiting my profile!
+
