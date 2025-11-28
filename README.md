@@ -5,7 +5,7 @@ I enjoy working with Python, HTML, CSS, and SQL, and I'm always excited to learn
 
 ---
 
-## 🚀 Skills (Learning)
+## 🚀 Skills 
 - Python  
 - HTML & CSS  
 - SQL  
@@ -31,7 +31,8 @@ I enjoy working with Python, HTML, CSS, and SQL, and I'm always excited to learn
 
 ## 📫 Contact
 - **Email:** saiswethaetikala08@gmail.com  
-- **Phone:** 9390791642  
+- HackerRank :https://www.hackerrank.com/profile/azbysaiswetha
+- Linkedin : https://www.linkedin.com/in/saiswethaetikala/
 
 ---
 
