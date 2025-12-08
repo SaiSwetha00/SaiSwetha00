@@ -8,7 +8,8 @@ I enjoy working with Python, HTML, CSS, and SQL, and I'm always excited to learn
 ## 🚀 Skills 
 - Python  
 - HTML & CSS  
-- SQL  
+- SQL
+- JavaScript 
 - Basic Web Scraping  
 - MS Office (Word, Excel, PowerPoint)
 
