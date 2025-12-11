@@ -32,7 +32,6 @@ I enjoy working with Python, HTML, CSS, and SQL, and I'm always excited to learn
 
 ## 📫 Contact
 - **Email:** saiswethaetikala08@gmail.com  
-- HackerRank :https://www.hackerrank.com/profile/azbysaiswetha
 - Linkedin : https://www.linkedin.com/in/saiswethaetikala/
 
 ---
