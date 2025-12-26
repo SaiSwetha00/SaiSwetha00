@@ -15,7 +15,6 @@ I work with Python, HTML, CSS, JavaScript and SQL.
 ---
 
 ## 📂 Projects
--  ## 📂 Projects
 - Web Scraping & Data Visualization  
   A beginner-level project using Python to extract data and create simple visualizations.
 
