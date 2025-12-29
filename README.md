@@ -21,9 +21,9 @@ I work with Python, HTML, CSS, JavaScript and SQL.
 - Calculator  
   Developed a basic calculator application using HTML,CSS, and JavaScript with DOM manipulation.
 
-- To-Do List
-  A Simple to-do list web application using HTML,CSS and JavaScript that allows users to add,complete and delete tasks.
-  
+- to-do list
+ A simple to-do list web application using HTML, CSS, and JavaScript that allows users to add, complete, and delete tasks.
+
 ---
 
 ## 🎯 Interests
