@@ -15,16 +15,15 @@ I work with Python, HTML, CSS, JavaScript and SQL.
 ---
 
 ## 📂 Projects
-- Web Scraping & Data Visualization  
-  A beginner-level project using Python to extract data and create simple visualizations.
+-* Web Scraping & Data Visualization
+    * A beginner-level project using Python to extract data and create simple visualizations.
 
-- Calculator  
-  Developed a basic calculator application using HTML,CSS, and JavaScript with DOM manipulation.
+* Calculator
+    * Developed a basic calculator application using HTML, CSS, and JavaScript with DOM manipulation.
 
-- to-do list
- A simple to-do list web application using HTML, CSS, and JavaScript that allows users to add, complete, and delete tasks.
+* To-Do List
+    * A simple to-do list web application using HTML, CSS, and JavaScript that allows users to add, complete, and delete tasks.
 
----
 
 ## 🎯 Interests
 - Software Engineering
