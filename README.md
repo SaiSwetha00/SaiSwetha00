@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Etikala Sai Swetha
 
 I'm a CSE student focused on learning programming, building projects, to strengthen my technical skills.  
-I work with SQL,Python,Excel,Power BI.
+I work with SQL,Python,Excel,Power BI
 
 ---
 
