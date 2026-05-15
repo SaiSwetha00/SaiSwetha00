@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Etikala Sai Swetha
 
-I'm a CSE student focused on learning programming, building simple projects, to strengthen my technical skills.  
-I work with Python, HTML, CSS, JavaScript and SQL.
+I'm a CSE student focused on learning programming, building projects, to strengthen my technical skills.  
+I work with SQL,Python,Excel,Power BI.
 
 ---
 
 ## 🚀 Skills 
 - Python  
-- HTML & CSS  
 - SQL
-- JavaScript 
-- Basic Web Scraping  
+- Power BI 
+- Excel
 
 ---
 
@@ -26,9 +25,10 @@ I work with Python, HTML, CSS, JavaScript and SQL.
 
 
 ## 🎯 Interests
+- Data Analytics
+- Data Visualization
+- Dashboard Development
 - Software Engineering
-- Web Development  
-- Data analysis
 - Learning new tools and technologies  
 
 ---
