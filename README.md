@@ -42,14 +42,6 @@
 
 ---
 
-### 📈 Sales Data Analysis Using Python
-- Analyzed sales data to identify trends, revenue patterns, and business performance metrics.
-- Performed data cleaning and created visualizations to support data-driven decision-making.
-
-**Tech Stack:** Python, Pandas, Matplotlib
-
----
-
 ### 🌐 Web Scraping & Data Visualization
 - Extracted data from websites using BeautifulSoup and processed it for analysis.
 - Created visualizations to present trends and insights in a clear and meaningful way.
