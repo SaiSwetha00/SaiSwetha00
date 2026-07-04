@@ -26,6 +26,13 @@
 
 ## 📂 Projects
 
+# Superstore Sales Analysis
+An end-to-end data analysis project on the Superstore retail dataset, covering data cleaning, SQL querying, exploratory data analysis (EDA) using Python (Pandas, Matplotlib), and an interactive Power BI dashboard to uncover sales, profit, and discount trends across regions and categories.
+Key insight: High discounts on the Furniture (Tables) category were driving losses despite strong sales, while the Consumer segment in the West region was the most profitable — helping identify actionable business recommendations.
+
+**Tech Stack:** SQL,EDA,Python,Power BI
+
+
 # 🧹 Anime Data Cleaning Using SQL
 - Cleaned and transformed anime dataset by handling duplicates, null values, unwanted characters, and formatting inconsistencies using SQL.
 - Implemented Window Functions, Temporary Tables, Stored Procedures, and Events to prepare high-quality data for analysis.
