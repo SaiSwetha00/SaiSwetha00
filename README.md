@@ -49,14 +49,6 @@ Key insight: High discounts on the Furniture (Tables) category were driving loss
 
 ---
 
-### 🌐 Web Scraping & Data Visualization
-- Extracted data from websites using BeautifulSoup and processed it for analysis.
-- Created visualizations to present trends and insights in a clear and meaningful way.
-
-**Tech Stack:** Python, BeautifulSoup, Pandas, Matplotlib
-
----
-
 ### 🧮 Calculator Web Application
 - Developed a responsive calculator capable of performing basic arithmetic operations.
 - Implemented JavaScript DOM manipulation for real-time user interaction.
