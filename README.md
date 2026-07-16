@@ -1,96 +1,85 @@
-#👋 Hi, I'm Sai Swetha Etikala
-🎓 B.Tech Computer Science and Engineering Graduate
-📊 Aspiring Data Analyst passionate about transforming data into meaningful insights
-💡 Skilled in SQL, Python, Excel, Power BI, and Data Visualization
-🚀 Currently improving my analytical, problem-solving, and dashboard development skills through hands-on projects.
+# Hi, I'm Sai Swetha👋
+
+CSE student with a strong interest in Data Analytics. I'm currently learning Generative AI and how to apply it in real-world workflows, while also building web apps to strengthen my practical skills. I learn best through hands-on projects.
 
 ---
 
-## 🛠️ Skills
-
-# Programming & Query Languages
-- Python
-- SQL
-# Data Analysis & Visualization
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Matplotlib
-# Tools
-- MySQL
-- Jupyter Notebook
-- Git & GitHub
-  
----
-
-## 📂 Projects
-
-# Superstore Sales Analysis
-An end-to-end data analysis project on the Superstore retail dataset, covering data cleaning, SQL querying, exploratory data analysis (EDA) using Python (Pandas, Matplotlib), and an interactive Power BI dashboard to uncover sales, profit, and discount trends across regions and categories.
-Key insight: High discounts on the Furniture (Tables) category were driving losses despite strong sales, while the Consumer segment in the West region was the most profitable — helping identify actionable business recommendations.
-
-**Tech Stack:** SQL,EDA,Python,Power BI
-
-
-# 🧹 Anime Data Cleaning Using SQL
-- Cleaned and transformed anime dataset by handling duplicates, null values, unwanted characters, and formatting inconsistencies using SQL.
-- Implemented Window Functions, Temporary Tables, Stored Procedures, and Events to prepare high-quality data for analysis.
-
-**Tech Stack:** SQL, MySQL
+# 🔭 Currently Learning
+- Generative AI — understanding how to use AI tools effectively in real workflows
+- Web app and app development
+- IBM Data Analysis Professional Certificate (in progress)
 
 ---
 
-### 📊 Anime Exploratory Data Analysis (EDA) Using SQL
-- Performed exploratory data analysis to identify top-rated anime, popular genres, episode trends, and audience engagement patterns.
-- Utilized Aggregate Functions, GROUP BY, HAVING, Ranking, and Window Functions to generate meaningful insights.
+# 🛠️ Skills
 
-**Tech Stack:** SQL, MySQL
+**Programming & Query Languages**
+`Python` · `SQL`
 
----
+**Web Development**
+`HTML` · `CSS` · `JavaScript` · `Next.js` · `TypeScript` · `Prisma` · `Tailwind CSS`
 
-### 🧮 Calculator Web Application
-- Developed a responsive calculator capable of performing basic arithmetic operations.
-- Implemented JavaScript DOM manipulation for real-time user interaction.
+**Data Analysis & Visualization**
+`Power BI` · `Excel` · `Pandas` · `NumPy` · `Matplotlib`
 
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### ✅ To-Do List Web Application
-- Built a task management application that allows users to add, complete, and delete tasks.
-- Designed a simple and user-friendly interface using HTML, CSS, and JavaScript.
-
-**Tech Stack:** HTML, CSS, JavaScript
+**Tools**
+`MySQL` · `Jupyter Notebook` · `Git & GitHub`
 
 ---
 
-## 📜 Certifications
+# 📂 Projects
 
-- AICTE Data Engineering Virtual Internship
-- Eduskills Virtual Internship Program
+**[Splitwiz](https://github.com/SaiSwetha00/splitwiz)**
+A trip expense splitter web app that lets a group create a trip, share a join code, and manage expenses together.
+🔗 Live: [splitwiz app](https://expense-splitter-two-flax.vercel.app)
+
+**Olist Brazilian E-Commerce — Interactive Dashboard**
+An interactive dashboard analyzing 99,441 orders (Sep 2016 – Oct 2018) from the Olist Brazilian E-Commerce dataset. Includes filters by month, state, category, and payment type, with visuals covering revenue trends, top categories, state-wise revenue, payment method mix, review score distribution, and delivery performance (average delivery days, late delivery %).
+**Tech:** JavaScript, Chart.js, Data Analysis
+
+**[Superstore Sales Analysis]**
+An end-to-end data analysis project on the Superstore retail dataset — data cleaning, SQL querying, EDA using Python (Pandas, Matplotlib), and an interactive Power BI dashboard to uncover sales, profit, and discount trends.
+**Tech:** SQL, Python, Power BI
+
+**Anime Data Cleaning Using SQL**
+Cleaned and transformed a raw anime dataset — handled duplicates, nulls, and formatting issues using Window Functions, Temporary Tables, Stored Procedures, and Events.
+**Tech:** SQL, MySQL
+
+**Anime Exploratory Data Analysis (EDA) Using SQL**
+Identified top-rated anime, popular genres, and engagement trends using Aggregate Functions, GROUP BY, HAVING, Ranking, and Window Functions.
+**Tech:** SQL, MySQL
+
+**Calculator Web App**
+A responsive calculator with real-time arithmetic operations using JavaScript DOM manipulation.
+**Tech:** HTML, CSS, JavaScript
+
+**To-Do List Web App**
+A task management app to add, complete, and delete tasks with a simple, user-friendly interface.
+**Tech:** HTML, CSS, JavaScript
 
 ---
 
-  ## 🎯 Areas of Interest
+# 📜 Certifications
+- Infosys Springboard
+- Microsoft Power BI
+- Young Python Professional
+- HackerRank — SQL, Python
+- IBM Data Analysis Professional Certificate — In Progress
 
-- Data Analytics
-- Data Visualization
-- Business Intelligence
-- Dashboard Development
+---
+
+# 🎯 Areas of Interest
+- Data Analytics & Visualization
+- Business Intelligence & Dashboard Development
+- Generative AI Applications
 - SQL & Database Management
-- Software Engineering
-- Learning New Technologies
 
 ---
 
-## 📫 Contact
-
+# 📫 Connect with Me
 - **Email:** saiswethaetikala08@gmail.com
-- **Hackerrank**: https://www.hackerrank.com/profile/azbysaiswetha
-- **Linkedin** : https://www.linkedin.com/in/saiswethaetikala/
+- **LinkedIn:** [saiswethaetikala](https://www.linkedin.com/in/saiswethaetikala/)
+- **HackerRank:** [azbysaiswetha](https://www.hackerrank.com/profile/azbysaiswetha)
 
 ---
-
-Thank you for visiting my profile!
-
+*Thank you for visiting my profile — learning through practical, hands-on projects.* 🚀
