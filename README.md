@@ -23,7 +23,7 @@ CSE student with a strong interest in Data Analytics. I'm currently learning Gen
 `Power BI` · `Excel` · `Pandas` · `NumPy` · `Matplotlib`
 
 **Tools**
-`MySQL` · `Jupyter Notebook` · `Git & GitHub`
+`MySQL` · `Jupyter Notebook` · `Git & GitHub` . `Vercel` .`Turso(SQLite)`
 
 ---
 
