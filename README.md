@@ -33,11 +33,7 @@ CSE student with a strong interest in Data Analytics. I'm currently learning Gen
 A trip expense splitter web app that lets a group create a trip, share a join code, and manage expenses together.
 🔗 Live: [splitwiz app](https://expense-splitter-two-flax.vercel.app)
 
-**Olist Brazilian E-Commerce — Interactive Dashboard**
-An interactive dashboard analyzing 99,441 orders (Sep 2016 – Oct 2018) from the Olist Brazilian E-Commerce dataset. Includes filters by month, state, category, and payment type, with visuals covering revenue trends, top categories, state-wise revenue, payment method mix, review score distribution, and delivery performance (average delivery days, late delivery %).
-**Tech:** JavaScript, Chart.js, Data Analysis
-
-**[Superstore Sales Analysis]**
+**[Superstore Sales Analysis](https://github.com/SaiSwetha00/Superstore_Sales_Data_Analysis)**
 An end-to-end data analysis project on the Superstore retail dataset — data cleaning, SQL querying, EDA using Python (Pandas, Matplotlib), and an interactive Power BI dashboard to uncover sales, profit, and discount trends.
 **Tech:** SQL, Python, Power BI
 
