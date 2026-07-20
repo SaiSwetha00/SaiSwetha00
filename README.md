@@ -1,81 +1,38 @@
-# Hi, I'm Sai Swetha👋
+<h1 align="center">Hi, I'm Sai Swetha 👋</h1>
 
-CSE student with a strong interest in Data Analytics. I'm currently learning Generative AI and how to apply it in real-world workflows, while also building web apps to strengthen my practical skills. I learn best through hands-on projects.
+<p align="center">
+  <b>Data Analyst</b> who turns messy data into decisions — and ships the tools to act on them.
+</p>
 
----
-
-# 🔭 Currently Learning
-- Generative AI — understanding how to use AI tools effectively in real workflows
-- Web app and app development
-- IBM Data Analysis Professional Certificate (in progress)
-
----
-
-# 🛠️ Skills
-
-**Programming & Query Languages**
-`Python` · `SQL`
-
-**Web Development**
-`HTML` · `CSS` · `JavaScript` · `Next.js` · `TypeScript` · `Prisma` · `Tailwind CSS`
-
-**Data Analysis & Visualization**
-`Power BI` · `Excel` · `Pandas` · `NumPy` · `Matplotlib`
-
-**Tools**
-`MySQL` · `Jupyter Notebook` · `Git & GitHub` . `Vercel` .`Turso(SQLite)`
+<p align="center">
+  SQL · Python · Power BI · Excel · Next.js — currently exploring Generative AI
+</p>
 
 ---
 
-# 📂 Projects
+### 🚀 About Me
+CSE student and aspiring <b>Data Analyst</b> based in Hyderabad, India. I love the full journey of data — cleaning it, querying it, visualizing it, and building the products that put insights to work. Unusually for an analyst, I also ship full-stack web apps, so I can both find the story in the data *and* build the tool that acts on it.
 
-**[Splitwiz](https://github.com/SaiSwetha00/splitwiz)**
-A trip expense splitter web app that lets a group create a trip, share a join code, and manage expenses together.
-🔗 Live: [splitwiz app](https://expense-splitter-two-flax.vercel.app)
+- 🔭 Currently learning **Generative AI** for real analytics workflows
+- 📊 Pursuing the **IBM Data Analysis Professional Certificate** (in progress)
+- 🌱 Open to Data Analyst / BI opportunities (Hyderabad · Remote · Hybrid)
 
-**[Superstore Sales Analysis](https://github.com/SaiSwetha00/Superstore_Sales_Data_Analysis)**
-An end-to-end data analysis project on the Superstore retail dataset — data cleaning, SQL querying, EDA using Python (Pandas, Matplotlib), and an interactive Power BI dashboard to uncover sales, profit, and discount trends.
-**Tech:** SQL, Python, Power BI
+### 🛠️ Skills
+**Languages:** Python · SQL · JavaScript · TypeScript  
+**Data & BI:** Power BI · Excel · Pandas · NumPy · Matplotlib  
+**Web:** Next.js · React · Tailwind CSS · Prisma  
+**Tools:** MySQL · Turso (SQLite) · Jupyter · Git & GitHub · Vercel
 
-**Anime Data Cleaning Using SQL**
-Cleaned and transformed a raw anime dataset — handled duplicates, nulls, and formatting issues using Window Functions, Temporary Tables, Stored Procedures, and Events.
-**Tech:** SQL, MySQL
+### 📂 Featured Projects
+- **[Superstore Sales Analytics](https://github.com/SaiSwetha00/Superstore_Sales_Data_Analysis)** — End-to-end analysis of 9,994 retail transactions: Python cleaning, an 8-section SQL EDA, and an interactive Power-BI-style dashboard. Uncovered that discounts ≥40% drive negative profit. `Python` `SQL` `Power BI` `Excel`
+- **[Splitwiz](https://github.com/SaiSwetha00/splitwiz)** — A live, deployed trip expense-splitter: create a trip, share a join code, track who owes whom. `Next.js` `TypeScript` `Prisma` `Turso` — [Live Demo](https://expense-splitter-two-flax.vercel.app)
+- **[Anime Data Cleaning (SQL)](https://github.com/SaiSwetha00/Anime_Data_Cleaning-SQL)** — Transformed a raw dataset into analysis-ready data using CTEs, window functions, temp tables & stored procedures. `MySQL`
+- **[Anime EDA (SQL)](https://github.com/SaiSwetha00/Anime_EDA_Project-SQL)** — Ranked top titles and genre trends with aggregate and window queries. `MySQL`
 
-**Anime Exploratory Data Analysis (EDA) Using SQL**
-Identified top-rated anime, popular genres, and engagement trends using Aggregate Functions, GROUP BY, HAVING, Ranking, and Window Functions.
-**Tech:** SQL, MySQL
+### 📜 Certifications
+Infosys Springboard · Microsoft Power BI · Young Python Professional · HackerRank (SQL, Python) · IBM Data Analysis Professional Certificate *(in progress)*
 
-**Calculator Web App**
-A responsive calculator with real-time arithmetic operations using JavaScript DOM manipulation.
-**Tech:** HTML, CSS, JavaScript
+### 📫 Connect
+📧 saiswethaetikala08@gmail.com  ·  💼 [LinkedIn](https://www.linkedin.com/in/saiswethaetikala)  ·  🧩 [HackerRank](https://www.hackerrank.com/azbysaiswetha)
 
-**To-Do List Web App**
-A task management app to add, complete, and delete tasks with a simple, user-friendly interface.
-**Tech:** HTML, CSS, JavaScript
-
----
-
-# 📜 Certifications
-- Infosys Springboard
-- Microsoft Power BI
-- Young Python Professional
-- HackerRank — SQL, Python
-- IBM Data Analysis Professional Certificate — In Progress
-
----
-
-# 🎯 Areas of Interest
-- Data Analytics & Visualization
-- Business Intelligence & Dashboard Development
-- Generative AI Applications
-- SQL & Database Management
-
----
-
-# 📫 Connect with Me
-- **Email:** saiswethaetikala08@gmail.com
-- **LinkedIn:** [saiswethaetikala](https://www.linkedin.com/in/saiswethaetikala/)
-- **HackerRank:** [azbysaiswetha](https://www.hackerrank.com/profile/azbysaiswetha)
-
----
-*Thank you for visiting my profile — learning through practical, hands-on projects.* 🚀
+<p align="center"><i>Learning through practical, hands-on projects. 🚀</i></p>
